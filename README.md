@@ -15,5 +15,5 @@
   [github repo](https://github.com/Dao-AILab/flash-attention)
 
 
-- 08-08-2024 [Combinatorial Multi-armed Bandits for Real-Time Strategy Games] ()
+- 08-08-2024 [Combinatorial Multi-armed Bandits for Real-Time Strategy Games](https://github.com/NxNiki/journal_club/blob/main/Combinatorial%20Multi-armed%20Bandits%20for%20Real-Time%20Strategy%20Games.pdf)
 
