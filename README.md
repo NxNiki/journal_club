@@ -20,5 +20,6 @@
 - 08-13-2025 [EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge](https://arxiv.org/abs/2505.23009)
 
   [github repo](https://github.com/boson-ai/higgs-audio)
+
   [Mu Li's video](https://youtu.be/0Dv4s2P65YQ?feature=shared)
 
