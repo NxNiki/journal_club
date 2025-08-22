@@ -17,7 +17,7 @@
 
 - 08-08-2025 [Combinatorial Multi-armed Bandits for Real-Time Strategy Games](https://github.com/NxNiki/journal_club/blob/main/Combinatorial%20Multi-armed%20Bandits%20for%20Real-Time%20Strategy%20Games.pdf)
 
-- 08-13-2025 [EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge](https://arxiv.org/abs/2505.23009)
+- 08-22-2025 [EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge](https://arxiv.org/abs/2505.23009)
 
   [github repo](https://github.com/boson-ai/higgs-audio)
 
